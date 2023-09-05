@@ -1,0 +1,16 @@
+{
+    "name": "valantic-cx/test",
+    "description": "Test Package",
+    "autoload": {
+        "psr-4": {
+            "ValanticCx\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christian Münch",
+            "email": "c.muench@netz98.de"
+        }
+    ],
+    "require": {}
+}
